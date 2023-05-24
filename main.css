@@ -1,0 +1,11 @@
+
+
+.container img{
+    max-width: 100%;
+}
+
+header{
+    background-color: rgba(90, 1, 214, 0.919);
+    color: rgb(0, 7, 71);
+    margin-bottom: 8px;
+}
